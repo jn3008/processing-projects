@@ -2,6 +2,9 @@
 
 ### Source code for some of my Java [Processing](https://processing.org/) projects
 
+| Date | Source code | View animation |
+|:----:|:-----------:|:--------------:|
+| 27/08/2021 | [**fight club**](https://github.com/jn3008/processing-projects/tree/main/projects/fightclub) | [mp4](https://jn3008.com/processing/p073.mp4) |
 
 ## Additional information
 
